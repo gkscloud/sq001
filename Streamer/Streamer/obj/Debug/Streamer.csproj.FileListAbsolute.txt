@@ -1,0 +1,13 @@
+C:\Development\png\playground\squeakify\Streamer\Streamer\bin\Debug\Streamer.exe.config
+C:\Development\png\playground\squeakify\Streamer\Streamer\bin\Debug\Streamer.exe
+C:\Development\png\playground\squeakify\Streamer\Streamer\bin\Debug\Streamer.pdb
+C:\Development\png\playground\squeakify\Streamer\Streamer\bin\Debug\NAudio.dll
+C:\Development\png\playground\squeakify\Streamer\Streamer\bin\Debug\NAudio.xml
+C:\Development\png\playground\squeakify\Streamer\Streamer\obj\Debug\Streamer.csprojAssemblyReference.cache
+C:\Development\png\playground\squeakify\Streamer\Streamer\obj\Debug\Streamer.Form1.resources
+C:\Development\png\playground\squeakify\Streamer\Streamer\obj\Debug\Streamer.Properties.Resources.resources
+C:\Development\png\playground\squeakify\Streamer\Streamer\obj\Debug\Streamer.csproj.GenerateResource.cache
+C:\Development\png\playground\squeakify\Streamer\Streamer\obj\Debug\Streamer.csproj.CoreCompileInputs.cache
+C:\Development\png\playground\squeakify\Streamer\Streamer\obj\Debug\Streamer.csproj.CopyComplete
+C:\Development\png\playground\squeakify\Streamer\Streamer\obj\Debug\Streamer.exe
+C:\Development\png\playground\squeakify\Streamer\Streamer\obj\Debug\Streamer.pdb
